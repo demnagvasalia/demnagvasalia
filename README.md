@@ -1,2 +1,3 @@
 ### Hello, im Gvasalia.👋
-<figure><embed src="https://wakatime.com/share/@demnagvasalia/ee7015a2-0b73-4f4e-a072-1fc1016d0abb.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@demnagvasalia/5f65d587-989e-46a5-be12-74ca7c535801.svg"></embed></figure>
