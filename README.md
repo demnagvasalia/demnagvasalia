@@ -1,3 +1,2 @@
 ### Hello, im Gvasalia.👋
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=demnagvasalia)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@demnagvasalia/ee7015a2-0b73-4f4e-a072-1fc1016d0abb.svg"></embed></figure>
