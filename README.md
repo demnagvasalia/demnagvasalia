@@ -1,3 +1,3 @@
 ### Hello, im Gvasalia.👋
 
-![Gvasalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=demnagvasalia&show_icons=true&theme=transparent)
+[![Gvasalias's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=demnagvasalia&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
